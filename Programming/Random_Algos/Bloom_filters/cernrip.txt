@@ -1,0 +1,396 @@
+Proton Synchrotron
+From Wikipedia, the free encyclopedia
+Jump to navigation Jump to search
+   This article is about the particle accelerator at CERN. For the topic of proton synchrotrons, seeSynchrotron.
+               CERN Complex
+
+
+
+
+   Current particle and nuclear facilities
+  LHC Accelerates protons and heavy ions
+  LEIR Accelerates ions
+  SPS Accelerates protons and ions
+  PSB Accelerates protons
+   PS Accelerates protons or ions
+ Linac 3 Injects heavy ions into LEIR
+ Linac4 Accelerates ions
+   AD Decelerates antiprotons
+ ELENA Decelerates antiprotons
+ISOLDE Produces radioactive ion beams
+
+The Proton Synchrotron (PS, sometimes also referred to as CPS[1]) is a particle accelerator at CERN. It is CERN's first synchrotron,
+beginning its operation in 1959. For a brief period the PS was the world's highest energy particle accelerator. It has since served as a pre-
+accelerator for the Intersecting Storage Rings (ISR) and the Super Proton Synchrotron (SPS), and is currently part of the Large Hadron
+Collider (LHC) accelerator complex. In addition to protons, PS has accelerated alpha particles, oxygen and sulfur nuclei, electrons,
+positrons, and antiprotons.[2]
+
+Today, the PS is part of CERN's accelerator complex. It accelerates protons for the LHC as well as a number of other experimental
+facilities at CERN. Using a negative hydrogen ion source, the ions are first accelerated to the energy of 160 MeV in the linear accelerator
+Linac 4. The hydrogen ion is then stripped of both electrons, leaving only the nucleus containing one proton, which is injected into the
+Proton Synchrotron Booster (PSB), which accelerates the protons to 2 GeV, followed by the PS, which pushes the beam to 25 GeV.        [3]
+The protons are then sent to the Super Proton Synchrotron, and accelerated to 450 GeV before they are injected into the LHC. The PS
+also accelerate heavy ions from the Low Energy Ion Ring (LEIR) at an energy of 72 MeV, for collisions in the LHC.
+
+Contents
+     1 Background
+     2 Operational history
+           2.1 Preliminary studies
+           2.2 1960–1976: Fixed-target and pre-accelerator to ISR
+           2.3 1976–1991: Pre-accelerator to SPS/SppS and LEAR
+           2.4 1991–2001: Pre-accelerator to LEP
+           2.5 2001–today: Pre-accelerator to LHC
+     3 Construction and operation
+     4 Findings and discoveries
+     5 References
+     6 External links
+
+Background[edit]
+The synchrotron (as in Proton Synchrotron) is a type of cyclic particle accelerator, descended from the cyclotron, in which the accelerating
+particle beam travels around a fixed path. The magnetic field which bends the particle beam into its fixed path increases with time, and is
+synchronized to the increasing energy of the particles. As the particles travels around the fixed circular path they will oscillate around their
+equilibrium orbit, a phenomenon called betatron oscillations.
+
+In a conventional synchrotron the focusing of the circulating particles is achieved by weak focusing: the magnetic field that guides the
+particles around the fixed radius decreases slightly with radius, causing the orbits of the particles with slightly different positions to
+approximate each other. The amount of focusing in this way is not very great, and consequently the amplitudes of the betatron
+oscillations are large. Weak focusing requires a large vacuum chamber, and consequently big magnets. Most of the cost of a conventional
+synchrotron is the magnets. The PS was the first accelerator at CERN that made use of the alternating-gradient principle, also called
+strong focusing: quadrupole magnets are used to alternately focus horizontally and vertically many times around the circumference of the
+accelerator. The focusing of the particle can in theory become as strong as one wishes, and the amplitude of the betatron oscillations as
+small as desired. The net result is that you can reduce the cost of the magnets.
+Operational history[edit]
+Preliminary studies[edit]
+
+When early in the 1950s the plans for a European laboratory ofparticle physics began to take shape, two different accelerator projects
+emerged. One machine was to be of standard type, easy and relatively fast and cheap to build: the synchrocyclotron, achieving collisions
+at a center-of-mass energy of 600 MeV. The second device was a much more ambitious undertaking: an accelerator bigger than any
+other then existing, a synchrotron that could accelerate protons up to an energy of 10 GeV – the PS.
+
+By May 1952 a design group was set up withOdd Dahl in charge.[4] Other members of the group were among others Rolf Widerøe, Frank
+Kenneth Goward, and John Adams. After a visit to the Cosmotron at Brookhaven National Laboratory in the US, the group learnt of a new
+idea for making cheaper and higher energy machines: alternating-gradient focusing. The idea was so attractive that the study of a 10 GeV
+synchrotron was dropped, and a study of a machine implementing the new idea initiated.[5] Using this principle a 30 GeV accelerator
+could be built for the same cost as a 10 GeV accelerator using weak focusing.[5] However, the stronger focusing the higher a precision of
+alignment of magnets required. This proved a serious problem in the construction of the accelerator.
+
+A second problem in the construction period was the machines behavior at an energy called "transition energy". At this point the relative
+increase in particle velocity changes from being greater to being smaller, causing the amplitude of the betatron oscillation to go to zero
+and loss of stability in the beam. This was solved by a jump, or a sudden shift in the acceleration, in which pulsed quadruples made the
+protons traverse the transition energy level much faster.
+
+The PS was approved in October 1953, as a synchrotron of 25 GeV energy with a radius of 72 meter, and a budget of 120 millionSwiss
+franc.[6] The focusing strength chosen required a vacuum chamber of 12 cm width and 8 cm height, with magnets of about 4000 tonnes
+total mass. Dahl resigned as head of the project in October 1954 and was replaced by John Adams. By August 1959 the PS was ready for
+its first beam, and on 24 of November the machine reached a beam energy of 24 GeV.[4]
+
+1960–1976: Fixed-target and pre-accelerator to ISR[edit]
+
+
+
+
+Aerial view of the 28 GeV Proton
+Synchrotron. The underground ring of
+the 28 GeV proton synchrotron in
+1965. Left, the South and North
+experimental halls. Top right, part of
+the East hall. Bottom right, the main
+generator room and the cooling
+condensers.
+
+By the end of 1965 the PS was the center of a spider's web of beam lines: It supplied protons to the South HallMeyrin
+                                                                                                                (     site) where an
+internal target produced five secondary beams, serving a neutrino experiment and a muon storage ring; the North Hall (Meyrin site) where
+two bubble chambers (80 cm hydrogen Saclay, heavy liquid CERN) were fed by an internal target; when the East Hall (Meyrin site)
+became available in 1963, protons from the PS hit an internal target producing a secondary beam filtered by electrostatic separators to
+the CERN 2 m bubble chamber and additional experiments.[7]
+
+Together with the construction of the Intersecting Storage Rings (ISR), an improvement program for the PS was decided in 1965, also
+making space for the Gargamelle and the Big European Bubble Chamber experiments. The injection energy of the PS was raised by
+constructing an 800 MeV four ring booster — the Proton Synchrotron Booster (PSB) — which became operational in 1972.[7]
+
+1976–1991: Pre-accelerator to SPS/SppS and LEAR[edit]
+
+In 1976 the Super Proton Synchrotron (SPS) became a new client of the PS. When SPS started to operate as aproton–antiproton collider
+— the SppS — the PS had the double task of producing an intense 26 GeV/c proton beam for generatingantiprotons at 3.5 GeV/c to be
+stored in the Antiproton Accumulator (AA), and then accelerating the antiprotons to 26 GeV/c for transfer to the SPS.
+
+The linear accelerator, now serving the PSB, was replaced in 1978 byLinac 2, leading to an further increase in intensity.[7] During this
+period acceleration of light ions entered the scene. Linac 1, which was replaced by Linac 2, was equipped to acceleratedeuterons that
+were accelerated in the PS, and transferred to the ISR where they collided with protons or deuterons.
+When the Low Energy Antiproton Ring (LEAR), for deceleration and storage of antiprotons, became operational in 1982, PS resumed the
+new role of an antiproton decelerator. It decelerated antiprotons from the AA to 180 MeV, and injected them into LEAR. During this period
+the PS complex truly earned its nickname of "versatile particle factory".[7] Up to 1996, PS would regularly accelerate ions for SPS fixed-
+target experiments, protons for the East Hall or antiproton production at AA, decelerate protons for LEAR, and later accelerate electrons
+and positrons for the Large Electron–Positron Collider (LEP).
+
+1991–2001: Pre-accelerator to LEP[edit]
+
+
+
+
+During its long operation the PS has increased its proton density many
+times
+
+To provide leptons to LEP, three more machines had to been added to the PS complex: LIL-V electron linear accelerator, the LIL-W
+electron and positron linear accelerator, and the EPA (Electron-Positron Accumulator) storage ring. A modest amount of additional
+hardware had to be added to modify PS from a 25 GeV proton synchrotron to a 3.5 GeV lepton synchrotron.
+
+During this period the demand for heavier ions to be delivered as a primary beam to the SPS North experimental hallPrévessin
+                                                                                                                   (         site) also
+increased. Both sulfur and oxygen ions were accelerated with great success.
+
+2001–today: Pre-accelerator to LHC[edit]
+
+After the end of operation as a LEP injector, the PS started a new period of operation in preparation as LHC injector and for new fixed-
+target experiments. New experiments started running in the East area, such as the CLOUD experiment. The PS complex was also
+remodeled when the AA area was replaced by the Antiproton Decelerator and its experimental area.
+
+By increasing the energy of the PSB and the Linac 2, the PS achieved record intensities in 2000 and 2001. During the whole of 2005 PS
+was shut down: radiation damage had caused aging of the main magnets. The magnets, originally estimated to have a lifetime of less
+than 10 years, had exceeded the estimate by more than a factor of four, and went through a refurbishment program. The tunnel was
+emptied, magnets refurbished, and the machine realigned. In 2008 PS started operating as a pre-accelerator to the LHC. Simultaneously
+the ion operation changed: LEAR was converted into a storage ring — the Low Energy Ion Ring (LEIR) — and the PSB stopped being an
+ion injector.
+
+Construction and operation[edit]
+The PS is built in a tunnel, in which temperature is controlled to ± 1°. Around the circumference, 628 meters, there are 100 magnet units
+of 4.4 m nominal length, 80 short straight sectors of 1.6 m, and 20 straight sectors of 3 m.[7] Sixteen long straight sections are equipped
+with acceleration cavities, 20 short ones with quadruple correction lenses, and 20 short ones with sets of sextuple and octuplet lenses.
+Other straight sections are reserved for beam observation stations and injection devices, targets, and ejection magnets.
+
+As the alignment of the magnets is of paramount importance, the units are mounted on a free floating ring of concrete, 200 meters in
+diameter.[5] As a further precaution, the concrete ring has steel pipes cast in it, where water passes through the ring to keep a constant
+temperature in the magnets.
+
+Findings and discoveries[edit]
+Using a neutrino beam produced by a proton beam from PS, the Gargamelle experiment discoveredneutral currents in 1973.
+
+References[edit]
+   1. ^ Standley, P. H. (1966). The CPS improvement programme.
+   2. ^ "The Proton Synchrotron". CERN. Retrieved 11 August 2017.
+   3. ^ "Accelerators". CERN. Retrieved 11 August 2017.
+   4. ^ a b Mersits, Ulrike (1990). "The Construction of the 28 GeV Proton Synchrotron and the first six years of its scientific exploration". In Hermann, A.;
+      Krige, J.; Mersits, U.; Pestre, D. (eds.). History of CERN, Vol. II. Amsterdam: North-Holland. pp. 139–269.
+   5. ^ a b c Bakker, C. J., ed. (1960). CERN's 25 GeV Proton Synchrotron. Geneva: CERN.
+   6. ^ Minutes of the Session: Seventh Session, Geneva, 29-30 October 1953 (PDF). Rome: CERN. 1954. Retrieved 11 August 2017.
+   7. ^ a b c d e Gilardoni, S.; Manglunki, D., eds. (2011). "The origins and the evolution of the CERN Proton Synchrotron". Fifty Years of the CERN Proton
+      Synchrotron. Geneva: CERN. pp. 1–33 . Retrieved 16 August 2017.
+
+
+External links[edit]
+     Media related to Proton Synchrotron at Wikimedia Commons
+
+                                         European Organization for Nuclear Research (CERN)
+     V
+
+     T
+
+     E
+
+
+
+
+                                          List of LHC experiments
+                                          ALICE
+                                          ATLAS
+                                          CMS
+          Large Hadron Collider (LHC)     LHCb
+                                          LHCf
+                                          MoEDAL
+                                          TOTEM
+                                          FASER
+
+
+                                          List of LEP experiments
+                                          ALEPH
+Large Electron–Positron Collider (LEP)    DELPHI
+                                          OPAL
+                                          L3
+
+
+                                          List of SPS experiments
+                                          AWAKE
+                                          CNGS
+                                          NA48
+                                          NA49
+                                          NA58/COMPASS
+                                          NA60
+      Super Proton Synchrotron (SPS)
+                                          NA61/SHINE
+                                          NA62
+                                          UA1
+                                          UA2
+                                          BIBC
+                                          LEBC
+                                          HOLEBC
+
+
+                                          PSB
+                                          LEIR
+                                          BEBC
+                                          PS215/CLOUD
+              Proton Synchrotron (PS)
+                                          Gargamelle
+                                          2 m Bubble Chamber
+                                          30 cm Bubble Chamber
+                                          81 cm Saclay Bubble Chamber
+
+
+                                          AWAKE
+                                          CTF3
+                                          CLEAR
+                   Linear accelerators    Linac
+                                          Linac 2
+                                          Linac 3
+                                          Linac4
+                                              AA (part of AAC)
+                                              AC (part of AAC)
+                                              AD
+                                              ISOLDE
+                                              ISOLTRAP
+                                              WITCH
+                                              ISR
+                        Other accelerators    LEAR
+                                              PS210
+                                              LEIR
+                                              LPI (LIL and EPA)
+                                              n-TOF
+                                              SC
+                                              SppS
+
+
+
+               Non-accelerator experiments    CAST
+
+
+                                              High Luminosity Large Hadron Collider
+                           Future projects    Compact Linear Collider
+                                              Future Circular Collider
+
+
+                                              LHC@home
+                                              Safety of high-energy particle collision experiments
+                                              CERN Courier
+                                              CERN openlab
+                           Related articles   Worldwide LHC Computing Grid
+                                              Microcosm exhibition
+                                              Streets in CERN
+                                              The Globe of Science and Innovation
+                                              Particle Fever (2013 documentary)
+
+
+
+                                                                          Category
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Proton_Synchrotron&oldid=1044680447"
+Categories:
+
+     Accelerator physics
+     Buildings and structures in the canton of Geneva
+     CERN accelerators
+     Particle accelerators
+     Particle physics facilities
+     CERN facilities
+
+Hidden categories:
+
+     Articles with short description
+     Short description matches Wikidata
+     Commons category link from Wikidata
+
+Navigation menu
+Personal tools
+
+     Not logged in
+     Talk
+     Contributions
+     Create account
+     Log in
+
+Namespaces
+
+     Article
+     Talk
+
+   English
+Views
+
+      Read
+      Edit
+      View history
+
+   More
+
+Search Wikipedia            Search     Go
+
+Navigation
+
+      Main page
+      Contents
+      Current events
+      Random article
+      About Wikipedia
+      Contact us
+      Donate
+
+Contribute
+
+      Help
+      Learn to edit
+      Community portal
+      Recent changes
+      Upload file
+
+Tools
+
+      What links here
+      Related changes
+      Upload file
+      Special pages
+      Permanent link
+      Page information
+      Cite this page
+      Wikidata item
+
+Print/export
+
+      Download as PDF
+      Printable version
+
+In other projects
+
+      Wikimedia Commons
+
+Languages
+
+      ‫اﻟ ﻌ ﺮﺑﻴ ﺔ‬
+      Čeština
+      Deutsch
+      Français
+      Italiano
+      ‫ע ב רי ת‬
+      Lietuvių
+      Magyar
+      Polski
+      Português
+      Русский
+
+
+Edit links
+
+      This page was last edited on 16 September 2021, at 14:14 (UTC).
+      Text is available under the Creative Commons Attribution-ShareAlike License 3.0; additional terms may apply. By using this site,
+      you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-
+      profit organization.
+
+      Privacy policy
+      About Wikipedia
+      Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
+
